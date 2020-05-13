@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<players>
+        
+    
+    <player>
+                
+        <name>theBestGamerEver</name>
+                
+        <score>3</score>
+                
+        <lives>2</lives>
+                
+        <level>0</level>
+            
+    </player>
+    
+    <player>
+        <name>Mariam</name>
+        <score>10</score>
+        <lives>0</lives>
+        <level>0</level>
+    </player>
+</players>
